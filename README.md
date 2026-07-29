@@ -1,5 +1,7 @@
 # Endpoint Management & Patch Compliance Lab
 
+[![PowerShell syntax validation](https://github.com/isaacyanney/endpoint-management-patch-lab/actions/workflows/powershell-syntax.yml/badge.svg)](https://github.com/isaacyanney/endpoint-management-patch-lab/actions/workflows/powershell-syntax.yml)
+
 A Windows endpoint-operations lab covering update-ring design, patch and security compliance, read-only local evidence collection, remediation planning and safe operational boundaries.
 
 ## What it demonstrates
